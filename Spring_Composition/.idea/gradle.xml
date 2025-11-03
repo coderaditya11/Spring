@@ -5,12 +5,12 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Spring_MappedSuperclass/demo" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Gradle/gradle-9.1.0" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Composition" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Gradle/gradle-9.1.0" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Spring_MappedSuperclass/demo" />
+            <option value="$PROJECT_DIR$/Composition" />
           </set>
         </option>
       </GradleProjectSettings>
